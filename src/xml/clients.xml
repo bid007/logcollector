@@ -1,0 +1,17 @@
+<clients>
+    <client ip='52.207.243.195' port='22' username='carnd' password='carnd' mail="bidsh7@gmail.com">
+        <alert type="memory" limit="10%" />
+        <alert type="cpu" limit="10%" /> 
+    </client>
+
+    <client ip='54.88.208.79' port='22' username='carnd' password='carnd' mail="bidhya.nsharma@gmail.com">
+        <alert type="memory" limit="10%" />
+        <alert type="cpu" limit="10%" /> 
+    </client>
+
+    <client ip='52.207.235.130' port='22' username='carnd' password='carnd' mail="bns0028@uah.edu">
+        <alert type="memory" limit="0%" />
+        <alert type="cpu" limit="0%" /> 
+    </client>
+
+</clients>
